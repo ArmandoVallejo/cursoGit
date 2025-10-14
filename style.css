@@ -16,6 +16,12 @@ div{
     color: white;
 }
 
+a:hover{
+    transform: scale(1.5);
+    color: red;
+    transition: all 0.5s ease;
+}
+
 img{
     width: 200px;
     height: auto;
