@@ -1,0 +1,22 @@
+h1{
+    color: #FF5733;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 60px;
+}
+
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
